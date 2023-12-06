@@ -1,0 +1,49 @@
+# STOCKHOLM 1.0
+#=GF AU Infernal 1.1.3
+
+Operon_5093/251-328         UUCCUAAA.UUAGGAAGCUACG-UUGAUGUCAUGAGGUC.AGGGGAACAG.CCCC.AGACC..CC.GCCGGA..AGGAACCGGAC..AUG
+#=GR Operon_5093/251-328 PP ********.**********985.566889**********.**********.****.*****..**.******..***********..***
+Operon_5377/7-86            UUCCUAAU.UUAGGAAGCUAAGAUUGUUGUCACGAGGUC.AGGGGAGCAG.CCCC.AGACC.cGG.ACCGGA..AGGACCCGGCC..AUG
+#=GR Operon_5377/7-86    PP ********.******************************.**********.****.*****.555.******..***********..***
+Operon_5027/251-328         UUCCUAUU.UUAGGAAGCUACGGUU-ACGCCAUCGGGUC.AGGGGAACAG.CCCC.AGACC..CC.GCCGGA..AGGAACCGGAC..AUG
+#=GR Operon_5027/251-328 PP ********.***********98775.789**********.**********.****.*****..**.******..***********..***
+Operon_588/250-328          UUCCAGA-.UUUGGAAGCUACUGUGGUUGUCAUGAGGUC.AGGGGAACAG.CCCC.AGACC..CC.GCCGGA..AGGAACCGGUC.gAUG
+#=GR Operon_588/250-328  PP *****97..689***************************.**********.****.*****..**.******..***********.****
+Operon_1951/250-328         UUCCUAAA.ACAGGAAGCUAAUGUUGUCGUCAUGAGGUC.AGGGGAACAG.CCCC.AGACU..CC.ACCGGA..AGGACCCGGCC..AUG
+#=GR Operon_1951/250-328 PP ********.******************************.**********.****.*****..**.******..***********..***
+Operon_2662/250-328         UUCCACA-.UUUGGAAGCUACUGUGGUUGUCAUGAGGUC.AGGGGAACAG.CCCC.AGACC..CC.GCCGGA..AGGAACCGGUC.gAUG
+#=GR Operon_2662/250-328 PP ****986..679***************************.**********.****.*****..**.******..***********.****
+Operon_2673/250-328         UUCCUAAC.UUAGGAAGCUACUGUUGUCGCCAUGAGGUC.AGGGGAA-AG.CCCC.AGACC.cGG.ACCGGA..AGGACCCGGCC..AUG
+#=GR Operon_2673/250-328 PP ********.******************************.******8.**.****.*****.555.******..***********..***
+Operon_1193/11-87           UUCCUAAU.UUAGGAAGCUAGCGUU--UGGGGUGUCGGC.AGGGGAACAG.CCCC.AGCCA..CC.GCCGGA..AGGAACCGGAC..AUG
+#=GR Operon_1193/11-87   PP ********.**********986655..55668999****.**********.****.*****..**.******..***********..***
+Operon_2420/249-328         UUCCUAAA.UUAGGAAGCUACUCUGUUUGGUGUCGGGUCaAGGGGAACAG.CCCC.GGACC..CAgGUCGGA..AGGAACCGAC-..AUG
+#=GR Operon_2420/249-328 PP ********.*****************************************.****.*****..555******..*********8...***
+Operon_501/23-103           CUCCUAAA.CUAGGAGGUAG-AGUGAGUGUCACGAGGUC.AGGGGAACAG.CCCC.AGACC.aCC.GGGCCA.gACGGAGGCCAU.cAUG
+#=GR Operon_501/23-103   PP ********.*********65.699***************.**********.****.*****.888.99999*.*66666777777.7***
+Operon_52/246-328           ACCCUAAA.UUAGGGUGUAGAGUGGAGU-UCAUCAGGUCaAGGGGAACAG.CCCC.GGACCacC-gAUCGAAaaAGGACUCGAUC..AUG
+#=GR Operon_52/246-328   PP ********.*********8876666665.*********************.****.*****955.5*******************..***
+Operon_1719/247-328         CCCACAAA.GUGUGGGGUAG-CGUGAGUGUCACGAGGUC.AGGGGAACAG.CCCC.AGACCacA-gGGUCCA.cACGGAGGACAC.cAUG
+#=GR Operon_1719/247-328 PP ********.*********76.5999**************.**********.****.*****844.5999999.*88888999999.9***
+Operon_52/1916-1994         ACCCUAAU.UUAGGGUGUAACAU--UGGGGUAUGAGGCA.AGGGGACCAG.CCCC.G-GCC..AC.UCCGUA.aAGGACUCGGACccAUG
+#=GR Operon_52/1916-1994 PP ********.**********9955..56789*********.**********.****.*.***..**.******.*****************
+Operon_1113/246-322         ACCCUAUU.UUAGGGUGUAGU--CUGUGGGUGUGAGG-C.AGGGGAACAG.CCCC.AGCCC..GC.UCCGUA.aGUGACUCGGAG..AAG
+#=GR Operon_1113/246-322 PP ********.*********865..556778999*****.*.**********.****.*****..**.******.999*********..***
+Operon_2789/249-328         UCCACACU.UUGUGGGCUAU-AGUG-AGGACAUCAGGUC.AGGGGAGCAG.CCCC.AGACC.aCC.GGUCCA.gACGGAGGACAC.gAUG
+#=GR Operon_2789/249-328 PP ********.******98854.5555.668**********.**********.****.*****.889.******.*88888******.****
+Operon_3382/248-328         CCCCGGUUuUGUGGGGU--AGAGUGAGUGUCACGAGGUC.AGGGGAACAG.CCCCaAGACC..CC.GAGGCA.gAAGGAGCCUCC.gAUG
+#=GR Operon_3382/248-328 PP ****9987455666664..45679***************.**********.****99****..**.******.*66666******.****
+Operon_1895/250-325         GUCCUAAA.UUAGGACGCUACAUU-GGAGUCAUGAGGUC.AGGGCA-CGG.GCCC.AGACC.cCA.CCCGCA..GGG--GAGAAC..ACG
+#=GR Operon_1895/250-325 PP ********.***********9766.5789**********.*****9.9**.****.*****.666.******..999..******..***
+Operon_5652/246-322         ACCCUAAU.UUAGGGUGUA-CGUUGUUC-GCGUGAGG-C.AGGGGAUCAG.CCCC.AGCCC..AC.UCCGUA.aGUCACUCGGAG..AUC
+#=GR Operon_5652/246-322 PP ********.*********5.55666555.79******.*.**********.****.*****..**.******.888999******..***
+Operon_5544/1-54            --------.--------------CAGGUG----UUGGUC.AGGGGAGCAGgCCCC.AGACU..CA.GCCGGA..AGGAACCGGAC..AUG
+#=GR Operon_5544/1-54    PP .......................444444....469***.*********99****.*****..**.******..***********..***
+Operon_1504/255-328         UUCCUAAU.UUAGGUGCU-ACUCU----GGAGUCAGGCC.AGGGGA-CCG.CCCC.AGGCC..CA.GACCCG..AAGGGGAGCAC.gAUG
+#=GR Operon_1504/255-328 PP ********.*****9876.44343....4445899****.*****9.789.****.*****..99.999888..66666888889.9***
+Operon_4824/7-85            GUCCCAUC.AGCGGACUAUAG-GUUGAGGUCACGAGGCC.AGGGCAACC-.GCCC.AGACC..CA.GACCCAuaAAGGGGAGAUC..AUG
+#=GR Operon_4824/7-85    PP ****8888.888****99986.5556779**********.*******96..7***.*****..*9.9999998866667999999..***
+#=GC SS_cons                <<<<<<__._>>>>>>,,,,,,,,,,,,,,,,,,,<<<<.-<<<<_____.>>>>.->>>>..--.<<<<<_.._____>>>>>:..:::
+#=GC cons                   nYCCYAnn-UURGGRnnYnRnnnUnnnnGnYRYnAGGYC-AGGGGARCAG-CCCC-AGRCC--nn-RnCnnA-nAnGRnnnGnnC--AUG
+#=GC RF                     ccCCuaAu.UuaGGggGuuAcugUguguGuCAUGAGGuC.AGGGGAaCAG.CCCC.AGaCC..cc.uccggA..AGGAaccggaC..AUG
+//
